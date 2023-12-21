@@ -4,7 +4,7 @@ Here's the original task description on Upwork:
 
 ---
 
-We implemented the task with the help of our [QuickAdminPanel](https://quickadminpanel.com) and front-end theme called [Etrain](https://colorlib.com/wp/template/etrain/) by [Colorlib](https://colorlib.com)
+We implemented the task with the help of our [QuickAdminPanel](https://quickadminpanel.com) and front-end theme called [ICTTC-kar3](https://colorlib.com/wp/template/ICTTC-kar3/) by [Colorlib](https://colorlib.com)
 
 ---
 
@@ -26,13 +26,13 @@ Created with [MySQL Workbench](https://www.mysql.com/products/workbench/) - see 
 
 ## How to use
 
-- Clone the repository with __git clone__
-- Copy __.env.example__ file to __.env__ and edit database credentials there
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- That's it: launch the main URL. 
-- You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__ or institution user __institution@institution.com__ - __password__ 
+-   Clone the repository with **git clone**
+-   Copy **.env.example** file to **.env** and edit database credentials there
+-   Run **composer install**
+-   Run **php artisan key:generate**
+-   Run **php artisan migrate --seed** (it has some seeded data for your testing)
+-   That's it: launch the main URL.
+-   You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - **password** or institution user __institution@institution.com__ - **password**
 
 ---
 
@@ -44,8 +44,9 @@ Basically, feel free to use and re-use any way you want.
 
 ## More from our LaravelDaily Team
 
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+-   Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
+-   Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
+-   FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
+-   Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+-   Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+# icttc-kar3
