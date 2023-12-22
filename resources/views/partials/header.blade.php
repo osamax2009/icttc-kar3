@@ -15,15 +15,15 @@
                         id="navbarSupportedContent">
                         <ul class="navbar-nav align-items-center">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('home') }}">Home</a>
+                                <a class="nav-link" href="{{ route('home') }}">الصفحة الرئيسية</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('courses.index') }}">Courses</a>
+                                <a class="nav-link" href="{{ route('courses.index') }}">الدورات</a>
                             </li>
                             @if($menuDisciplines->count())
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Disciplines
+                                        المواضيع
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         @foreach($menuDisciplines as $id=>$discipline)
@@ -35,7 +35,7 @@
                             @if($menuInstitutions->count())
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Institutions
+                                        المدربين
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         @foreach($menuInstitutions as $id=>$institution)

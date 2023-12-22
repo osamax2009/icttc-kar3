@@ -4,10 +4,10 @@
 <section class="special_cource padding_top">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-xl-5">
+            <div class="col-xl-6">
                 <div class="section_tittle text-center">
-                    <p>Courses</p>
-                    <h2>Newest Courses</h2>
+                    <p>الـــــدورات</p>
+                    <h2>دورات المركز التدريبي - الكرخ/٣</h2>
                 </div>
             </div>
         </div>
